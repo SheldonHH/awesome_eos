@@ -21,9 +21,14 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources
 
 ## Social Media
 - [EOS Community Forum](https://medium.com/@eosforumorg) - Community Forum on Medium
-- [EOS on Steemit](https://steemit.com/@eosio) EOS Steemit Blog 
-- [EOS developer Telegarm](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw) EOS Developer Gathering Group
+- [EOS on Steemit](https://steemit.com/@eosio) - EOS Steemit Blog 
+- [EOS developer Telegarm](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw) - EOS Developer Gathering Group
 
+ ## Sample Contracts
+ - [EOS offical contracts](https://github.com/EOSIO/eos/tree/master/contracts) - EOS offical sample contracts
+ - [EOS offical contracts guide](https://github.com/eosio/eos/wiki/Tutorials) - Walk through offical contracts
+ - [EOS shop](https://github.com/michaeljyeates/eosshop/) - EOS Shop Contracts in cpp
+ 
  
 ## Language Support 
 ### C++ Native
@@ -36,8 +41,12 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Offical Serialization library for native data structures 
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - Offical JSON schemas for EOS interfaces 
 
-### Python 
 
+### Andriod platform
+[Andriod API](https://github.com/mithrilcoin-io/EosCommander) - Android client for EOS blockchain
+
+
+### Python 
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+ 
 
 ### Scala 
