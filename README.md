@@ -21,6 +21,7 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
 - [EOS developer Telegarm](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw) - Offical EOS Developer Group
 - [EOS go](http://forums.eosgo.io/) - Official EOS Forum
 - [EOS go Dev Q&A](http://forums.eosgo.io/categories/q-a-for-developers) - Offical EOS Developer QA forum
+- [stackoverflow tag EOS](https://stackoverflow.com/questions/tagged/eos) - EOS tag on stackoverflow
 
 
 ## EOS Offical Blogs
