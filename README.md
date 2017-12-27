@@ -17,16 +17,16 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
 - [Launcher](https://github.com/eosio/eos/wiki/Programs-&-Tools#launcher) - multiple eosd nodes across a LAN or a wider network)
 - [eoscpp](https://github.com/eosio/eos/wiki/Programs-&-Tools#eoscpp) - generate the ABI specification file by inspecting the content of types declared in the contract source code
 
+## EOS Developer Forum
+- [EOS developer Telegarm](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw) - Offical EOS Developer Group
+- [EOS go](http://forums.eosgo.io/) - Official EOS Forum
+- [EOS go Dev Q&A](http://forums.eosgo.io/categories/q-a-for-developers) - Offical EOS Developer QA forum
 
 
 ## EOS Offical Blogs
 - [EOS Community Forum](https://medium.com/@eosforumorg) - Community Forum on Medium
 - [EOS on Steemit](https://steemit.com/@eosio) - EOS Steemit Blog 
 
-## EOS Developer Forum
-- [EOS developer Telegarm](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw) - Offical EOS Developer Group
-- [EOS go](http://forums.eosgo.io/) - Official EOS Forum
-- [EOS go Dev Q&A](http://forums.eosgo.io/categories/q-a-for-developers) - Offical EOS Developer QA forum
 
  ## Sample Contracts
  - [EOS offical contracts](https://github.com/EOSIO/eos/tree/master/contracts) - EOS offical sample contracts
