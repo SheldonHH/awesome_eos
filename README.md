@@ -43,7 +43,7 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources
 
 
 ### Andriod platform
-[Andriod API](https://github.com/mithrilcoin-io/EosCommander) - Android client for EOS blockchain
+[EosCommander](https://github.com/mithrilcoin-io/EosCommander) - Android client for EOS blockchain
 
 
 ### Python 
