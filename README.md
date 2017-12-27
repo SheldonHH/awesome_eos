@@ -1,5 +1,5 @@
 # awesome_eos
-General catalog for [EOS](https://github.com/EOSIO/eos) resources
+General catalog for [EOS](https://github.com/EOSIO/eos) resources, update frequently!!
 
 
 ## Official Documents
