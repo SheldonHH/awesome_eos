@@ -29,10 +29,9 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
 - [EOS on Steemit](https://steemit.com/@eosio) - EOS Steemit Blog 
 
 
- ## Sample Contracts
+ ## Offical Sample Contracts
  - [EOS offical contracts](https://github.com/EOSIO/eos/tree/master/contracts) - EOS offical sample contracts
  - [EOS offical contracts guide](https://github.com/eosio/eos/wiki/Tutorials) - Walk through offical contracts
- - [EOS shop](https://github.com/michaeljyeates/eosshop/) - EOS Shop Contracts in cpp
  
  
 ## Language Support 
