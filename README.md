@@ -9,6 +9,7 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
 - [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper 
 - [EOS Application Stacks](https://steemit.com/eos/@eosio/introducing-eos-io-application-stack)
 - [EOS Storage White paper](https://github.com/EOSIO/Documentation/raw/master/EOS.IO%20Storage.pdf) - EOS Storage Plan
+- [EOS release](https://github.com/EOSIO/eos/wiki/Releases) - EOS release of test and working blockchain
 
 ## Offical Tools 
 - [eosd](https://github.com/eosio/eos/wiki/Programs-&-Tools#eosd) - Single-Testnet tool 
