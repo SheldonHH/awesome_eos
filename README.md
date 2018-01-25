@@ -18,11 +18,19 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
 - [Launcher](https://github.com/eosio/eos/wiki/Programs-&-Tools#launcher) - multiple eosd nodes across a LAN or a wider network)
 - [eoscpp](https://github.com/eosio/eos/wiki/Programs-&-Tools#eoscpp) - generate the ABI specification file by inspecting the content of types declared in the contract source code
 
-## EOS Developer Forum
+## Telegram Group Chat
 - [EOS developer Telegarm](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw) - Offical EOS Developer Group
+- [EOS Governance](https://t.me/EOSGov) - EOSIO Governance, Economics, and Philosophy
+- [EOS Game Chat](https://t.me/EosGameDevelopers) - This group is to discuss development of games in EOS blockchain.
+This group is NOT for price discussion.
+
+## EOS Developer Forum
 - [EOS go](http://forums.eosgo.io/) - Official EOS Forum
 - [EOS go Dev Q&A](http://forums.eosgo.io/categories/q-a-for-developers) - Offical EOS Developer QA forum
 - [stackoverflow tag EOS](https://stackoverflow.com/questions/tagged/eos) - EOS tag on stackoverflow
+
+## Collections of EOS app
+- [EOS Collective](https://eoscollective.org/)
 
 
 ## EOS Offical Blogs
@@ -36,6 +44,9 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
  
  
 ## Language Support 
+### Command Line external Tools
+ - [TEOS](https://github.com/tokenika/teos) - Windows Friendly Programmable External Tools
+
 ### C++ Native
 - [eoslib](https://github.com/EOSIO/eos/tree/b5207a1b47efa0bf739b92b8c6b126cc9fd58d5b/contracts) - Offical General contracts to 
 
