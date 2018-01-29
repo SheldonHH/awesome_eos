@@ -45,6 +45,9 @@ This group is NOT for price discussion.
 ## EOS Explorer
 - [http://eostracker.io/](http://eostracker.io/) Real time viewer for EOS Blockchain and Producer from `Cesar`
 
+## EOS API
+ -[Tademly api service](https://github.com/Tandemly/eos-api-service) 
+
  
 ## Language Support 
 ### Command Line external Tools
