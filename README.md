@@ -50,6 +50,9 @@ This group is NOT for price discussion.
 
  
 ## Language Support 
+### Go
+eosapi - EOS' JSON API Wrapper for Golang
+
 ### Command Line external Tools
  - [TEOS](https://github.com/tokenika/teos) - Windows Friendly Programmable External Tools
 
