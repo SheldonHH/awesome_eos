@@ -31,7 +31,8 @@ This group is NOT for price discussion.
 
 ## Collections of EOS app
 - [EOS Collective](https://eoscollective.org/)
-
+## Sample Contracts
+- [Game: eosCryptoZombie](https://github.com/ludvigkratz/eosCryptoZombie)
 
 ## EOS Offical Blogs
 - [EOS Community Forum](https://medium.com/@eosforumorg) - Community Forum on Medium
