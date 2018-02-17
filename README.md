@@ -25,18 +25,28 @@ General catalog for [EOS](https://github.com/EOSIO/eos) resources, update freque
 This group is NOT for price discussion.
 
 ## EOS Developer Forum
-- [EOS go](http://forums.eosgo.io/) - Official EOS Forum
-- [EOS go Dev Q&A](http://forums.eosgo.io/categories/q-a-for-developers) - Offical EOS Developer QA forum
+- [EOS go](http://forums.eosgo.io/) - EOS Go Forum
+- [EOS go Dev Q&A](http://forums.eosgo.io/categories/q-a-for-developers) -  EOS Go Developer QA forum
 - [stackoverflow tag EOS](https://stackoverflow.com/questions/tagged/eos) - EOS tag on stackoverflow
-
+-
 ## Collections of EOS app
 - [EOS Collective](https://eoscollective.org/)
 ## Sample Contracts
 - [Game: eosCryptoZombie](https://github.com/ludvigkratz/eosCryptoZombie)
+## EOS Wallet
+- [Github Official Wallet](https://github.com/EOSIO/eos-wallet-app/blob/master/README.md)
+- [t1wallet](https://t1wallet.eos.io)	
+- [Github by Tandemly](https://github.com/Tandemly/eos-web-wallet)
+- [Github Essential Scatter by James](https://github.com/EOSEssentials/Scatter)
+  - [scatter-eos.com](scatter-eos.com)
+- [EOS Android Wallet by Freewallet](https://play.google.com/store/apps/details?id=eos.org.freewallet.app&hl=en)			
 
-## EOS Offical Blogs
+
+## EOS Blogs
 - [EOS Community Forum](https://medium.com/@eosforumorg) - Community Forum on Medium
-- [EOS on Steemit](https://steemit.com/@eosio) - EOS Steemit Blog 
+- [EOS on Steemit](https://steemit.com/@eosio) - EOS Official Steemit Blog 
+- [Busy eosgo](https://busy.org/@eosgo/) - Busy.org EOS Go
+- [Dan on medium](https://medium.com/@bytemaster?source=post_header_lockup) Bytemaster's Blog on Medium
 
 
  ## Offical Sample Contracts
